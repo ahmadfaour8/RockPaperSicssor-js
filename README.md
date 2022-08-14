@@ -1,3 +1,3 @@
 # RockPaperScissor
-My First theOdinProject repo
+My First TheOdinProject project
 a game of Rock Paper Scissor.
